@@ -1,0 +1,6 @@
+{
+  "name": "CareVeda",
+  "description": "Himalayan botanical apothecary storefront, QR harvest passport, skincare creator program, cold-chain rider delivery, and lab operations console.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
